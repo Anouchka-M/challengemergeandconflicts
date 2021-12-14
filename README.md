@@ -1,2 +1,3 @@
+REMOTE
 # challengemergeandconflicts
 Blablablabla bliblibliblibli blebleblebleble blobloblobloblo
